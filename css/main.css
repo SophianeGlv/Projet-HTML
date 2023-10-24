@@ -1,0 +1,14 @@
+/* reset : mettre à 0 toutes les propriétés du navigateur */
+
+
+
+
+
+
+
+body{
+    font: 1.6rem sans-serif; /*taile + police 1.6rem*/
+    margin: 0;
+    letter-spacing: 0.1rem; /* 1px */
+    line-height: 1.6; /* 16px */
+}
